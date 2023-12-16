@@ -9,6 +9,17 @@ an API for an ecommerce platform admin to manage product inventory
 - List Available Products in the Database using API calls
 - Update Product Quantity using API calls
  
+## ⚙️ Screenshots
+- Add Products to the Database using API calls
+    ![Add Product](image.png)
+- Delete Product from the Database using API calls
+    ![Delete Product](image-2.png)
+- List Available Products in the Database using API calls
+    ![List Products](image-1.png)
+- Update Product Quantity using API calls
+    ![Update Product](image-3.png)
+
+
 ## 🧑‍💻 Getting started
 
 * Fork the project 
