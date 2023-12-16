@@ -28,9 +28,9 @@ an API for an ecommerce platform admin to manage product inventory
   * PORT="Your port number"
   * MONGODB_URL="Your MongoDB URL"
 * Install all required packages
-    npm install 
+  * npm install 
 * Run project 
-    npm start
+  * npm start
 
 The project is running on the port number provided by you.
 
